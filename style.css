@@ -1,5 +1,5 @@
 body {
-    background-color: #333333; /* Der hellere Grauton wurde hierher verschoben */
+    background-color: #333333; /* Dunkelgrauer Hintergrund */
     color: #ffffff; /* Weißer Text */
 }
 
@@ -11,7 +11,7 @@ body {
     position: fixed;
     top: 0;
     right: 0;
-    background-color: #2f2f2f; /* Der dunklere Grauton wurde hierher verschoben */
+    background-color: #2f2f2f; /* Hintergrundfarbe des Menüs */
     border-left: 1px solid #444444; /* Trennlinie */
     width: 200px;
 }
@@ -20,10 +20,13 @@ body {
     margin: 20px 0;
 }
 
-footer {
-    background-color: #2f2f2f; /* Der dunklere Grauton wurde hierher verschoben */
+table {
+    color: white; /* Schriftfarbe in der Tabelle auf Weiß gesetzt */
 }
 
-table {
-    color: #ffffff; /* Textfarbe in der Tabelle bleibt weiß */
+footer {
+    background-color: #2f2f2f; /* Hintergrundfarbe des Fußbereichs */
+    position: fixed;
+    bottom: 0;
+    width: 100%; /* Footer bleibt am unteren Ende fixiert */
 }
