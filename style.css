@@ -1,5 +1,5 @@
 body {
-    background-color: #2f2f2f; /* Dunkelgrauer Hintergrund */
+    background-color: #333333; /* Dunkelgrauer Hintergrund */
     color: #ffffff; /* Weißer Text */
 }
 
@@ -11,7 +11,7 @@ body {
     position: fixed;
     top: 0;
     right: 0;
-    background-color: #333333; /* Hintergrundfarbe des Menüs */
+    background-color: #2f2f2f; /* Hintergrundfarbe des Menüs */
     border-left: 1px solid #444444; /* Trennlinie */
     width: 200px;
 }
@@ -25,7 +25,7 @@ table {
 }
 
 footer {
-    background-color: #333333; /* Hintergrundfarbe des Fußbereichs */
+    background-color: #2f2f2f; /* Hintergrundfarbe des Fußbereichs */
     position: fixed;
     bottom: 0;
     width: 100%; /* Footer bleibt am unteren Ende fixiert */
