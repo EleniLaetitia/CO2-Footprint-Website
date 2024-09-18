@@ -20,6 +20,13 @@ body {
     margin: 20px 0;
 }
 
+table {
+    color: white; /* Schriftfarbe in der Tabelle auf Weiß gesetzt */
+}
+
 footer {
     background-color: #333333; /* Hintergrundfarbe des Fußbereichs */
+    position: fixed;
+    bottom: 0;
+    width: 100%; /* Footer bleibt am unteren Ende fixiert */
 }
